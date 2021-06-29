@@ -18,7 +18,7 @@
           '',
           url('?body')
         ].join('\n'));
-        location.href = `https://github.com/MOONGIFT/moongift.dev/issues/new?title=${encodeURIComponent(url('?title'))}&body=${body}&labels=OSS`;
+        location.href = `https://github.com/MOONGIFT/moongift.dev/issues/new?title=${encodeURIComponent(url('?title'))}&body=${body}&labels=${encodeURIComponent(url('?label'))}`;
       }
     });
   </script>
