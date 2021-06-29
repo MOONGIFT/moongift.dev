@@ -1,0 +1,27 @@
+<html>
+
+<body>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/js-url/2.5.3/url.min.js" integrity="sha512-YlfjbwbVZGikywbRiBmrMZh4gkigfbNHBLi8ZVQUMCGn/5Fnc700QDiZ3OC4WY2peX1nrqUbCcHyOyvKR8hwNA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <script type="module">
+    import { Octokit } from "https://cdn.skypack.dev/@octokit/rest";
+    document.addEventListener('DOMContentLoaded', async () => {
+      const u = url('?url');
+      const octokit = new Octokit();
+      const issues = await octokit.rest.search.issuesAndPullRequests({
+        q: `repo:MOONGIFT/moongift.dev type:issue ${u}`
+      });
+      if (issues.data.items.length > 0) {
+        location.href = issues.data.items[0].html_url;
+      } else {
+        const body = encodeURIComponent([
+          u,
+          '',
+          url('?body')
+        ].join('\n'));
+        location.href = `https://github.com/MOONGIFT/moongift.dev/issues/new?title=${encodeURIComponent(url('?title'))}&body=${body}&labels=OSS`;
+      }
+    });
+  </script>
+</body>
+</html>
+
