@@ -1,0 +1,26 @@
+{
+  "name": "moongift.dev",
+  "version": "1.0.0",
+  "description": "開発者向けのリソースをIssueにまとめているサイトです。",
+  "main": "get.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MOONGIFT/moongift.dev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MOONGIFT/moongift.dev/issues"
+  },
+  "homepage": "https://github.com/MOONGIFT/moongift.dev#readme",
+  "dependencies": {
+    "dayjs": "^1.10.6",
+    "node-fetch": "^3.0.0",
+    "yaml": "^1.10.2"
+  }
+}
