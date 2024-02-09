@@ -9,7 +9,7 @@ MOONGIFT.devは、開発者にとって役立つサービスやツールを紹�
 - ソフトウェア
 - ハードウェア
 
-皆さんからのタレコミをお待ちしています。タレコミは[こちら](https://github.com/MOONGIFT/moongift.dev/issues)からお願いします。PRも歓迎です。
+皆さんからのタレコミをお待ちしています。タレコミは<a href="https://github.com/MOONGIFT/moongift.dev/issues/new" target="_blank">こちら</a>からお願いします。PRも歓迎です。
 
 ## リポジトリ
 
