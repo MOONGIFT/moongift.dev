@@ -18,8 +18,8 @@
     "url": "https://github.com/kitian616/jekyll-TeXt-theme/issues"
   },
   "scripts": {
-    "build": "bundle exec jekyll build",
-    "deploy": "wrangler pages deploy _site",
+    "build": "JEKYLL_ENV=production bundle exec jekyll build",
+    "deploy": "npm run build && wrangler pages deploy _site",
     "start": "bundle exec jekyll serve"
   },
   "devDependencies": {
