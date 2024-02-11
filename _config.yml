@@ -38,10 +38,10 @@ author:
   name      : Atsushi@MOONGIFT
   url       : https://devrel.jp
   avatar    : # path or url of avatar image (square)
-  bio       : I am an amazing person.
+  bio       : MOONGIFT.dev では、開発者にとって役立つリソース（Webサービス、ハードウェア、コミュニティ、カンファレンスなど）を共有・発信しています
   email     : hi@moongift.co.jp
-  facebook  : goofmint
-  twitter   : gootfmint
+  facebook  : moongift
+  twitter   : moongift_dev
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
   googleplus: # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
   telegram  : # "user_name" the last part of your profile url, e.g. https://t.me/user_name
