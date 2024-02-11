@@ -20,6 +20,7 @@
   "scripts": {
     "build": "JEKYLL_ENV=production bundle exec jekyll build",
     "deploy": "git checkout main && git merge develop && npm run build && wrangler pages deploy _site && git checkout develop",
+    "push": "git checkout main && git merge develop && git push origin main && git checkout develop",
     "start": "bundle exec jekyll serve"
   },
   "devDependencies": {
