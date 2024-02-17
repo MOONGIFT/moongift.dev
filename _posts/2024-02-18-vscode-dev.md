@@ -1,5 +1,6 @@
 ---
 title: vscode.dev
+key: vscode-dev
 tags:
   - Editor
 cover: /assets/images/vscodedev.jpg

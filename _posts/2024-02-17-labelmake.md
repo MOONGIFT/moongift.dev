@@ -1,5 +1,6 @@
 ---
 title: labelmake.jp
+key: labelmake
 tags:
   - PDF
 cover: /assets/images/labelmake.jpg

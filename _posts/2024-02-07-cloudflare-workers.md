@@ -1,5 +1,6 @@
 ---
 title: Cloudflare Workers
+key: cloudflare-workers
 tags:
   - Cloudflare
   - FaaS

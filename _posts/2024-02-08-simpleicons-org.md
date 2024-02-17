@@ -1,5 +1,6 @@
 ---
 title: Simple Icons
+key: simple-icons
 tags:
   - Icon
   - Free
