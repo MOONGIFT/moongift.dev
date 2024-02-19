@@ -32,9 +32,7 @@ layout: page
 {%- assign _type = page.articles.type | default: layout.articles.type -%}
 
 {%- if _articles -%}
-
   <div class="layout--articles">
-
     {%- if _type == 'grid' -%}
       {%- if page.articles.size == 'sm' -%}
         {%- include article-list.html articles=_articles type='grid' size='sm' -%}
@@ -71,7 +69,7 @@ layout: page
         source0=layout.articles.show_info source1=page.articles.show_info -%}
       {%- assign _show_info = __return -%}
 
-      {%- assign _article_type = page.articles.article_type | default: layout.articles.article_type -%}
+      {%- assign _article_type = page.articles.type | default: layout.articles.article_type -%}
       {%- assign _cover_size = page.articles.cover_size | default: layout.articles.cover_size -%}
       {%- assign _excerpt_type = page.articles.excerpt_type | default: layout.articles.excerpt_type -%}
 
