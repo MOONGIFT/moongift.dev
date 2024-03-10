@@ -2,6 +2,8 @@
 title: Codeanywhere
 key: codeanywhere
 tags:
+  - IDE
+  - Visual Studio Code
 cover: /assets/images/codeanywhere.jpg
 comment: true
 ---
