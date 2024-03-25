@@ -9,7 +9,7 @@ cover: /assets/images/webcontainers.jpg
 comment: true
 ---
 
-WebContainersは、ブラウザ上で動くNode.js環境を提供します。ターミナルも利用でき、npmでライブラリをインストールすることもできます。実体はWebAssemblyであり、モダンなブラウザであれば問題なく利用できます。
+[WebContainers](https://webcontainers.io/)は、ブラウザ上で動くNode.js環境を提供します。ターミナルも利用でき、npmでライブラリをインストールすることもできます。実体はWebAssemblyであり、モダンなブラウザであれば問題なく利用できます。
 
 [![WebContainersのWebサイト](/assets/images/webcontainers.jpg)](https://webcontainers.io/x)
 
