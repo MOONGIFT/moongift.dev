@@ -61,6 +61,8 @@ Open API Specification（OAS）も提供しており、これを使って独自�
 
 FusionAuthは、コミュニティエディションを無償でセルフホスティングできます。有料版は、プレミアム機能を利用でき、月125ドルからになります。クラウドホスティングの場合は、月37ドルからになります。
 
+![](/assets/images/fusionauth-2.jpg)
+
 ## URL
 
 [FusionAuth: Auth. Built for Devs, by Devs](https://fusionauth.io/)
