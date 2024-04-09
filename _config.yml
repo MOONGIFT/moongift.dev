@@ -197,6 +197,7 @@ exclude:
   - /screenshots
   - /test
   - /vendor
+  - /template.md
 
 defaults:
   - scope:
