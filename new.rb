@@ -19,7 +19,7 @@ end
 json = JSON.parse(URI.open("https://ogp.moongift.dev/?url=#{CGI.escape(url)}").read, symbolize_names: true)
 
 params = {
-	site: json[:title],
+	site: json[:title].gsub(/\|/, '\|'),
 	title: key,
 	lowercase: key.downcase,
 	url: url,
