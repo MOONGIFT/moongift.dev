@@ -24,8 +24,10 @@
     "start": "bundle exec jekyll serve"
   },
   "devDependencies": {
+    "axios": "^1.6.8",
     "cross-env": "^7.0.0",
     "eslint": "^6.8.0",
+    "form-data": "^4.0.0",
     "husky": "^4.2.1",
     "stylelint": "^13.0.0",
     "stylelint-config-recommended-scss": "^4.2.0",
