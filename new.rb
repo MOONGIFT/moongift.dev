@@ -16,7 +16,13 @@ if key.empty?
 	exit
 end
 
-json = JSON.parse(URI.open("https://ogp.moongift.dev/?url=#{CGI.escape(url)}").read, symbolize_names: true)
+begin
+	json = JSON.parse(URI.open("https://ogp.moongift.dev/?url=#{CGI.escape(url)}").read, symbolize_names: true)
+rescue => e
+	json = {
+		title: key,
+	}
+end
 
 params = {
 	site: json[:title].gsub(/\|/, '\|'),
