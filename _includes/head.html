@@ -22,3 +22,13 @@
 <link rel="stylesheet" href="{{ _sources.font_awesome }}" >
 
 {%- include head/custom.html -%}
+
+<script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+<script>
+  window.OneSignalDeferred = window.OneSignalDeferred || [];
+  OneSignalDeferred.push(function(OneSignal) {
+    OneSignal.init({
+      appId: "feaefc8d-b811-458d-bd75-ec3a73b916ae",
+    });
+  });
+</script>
