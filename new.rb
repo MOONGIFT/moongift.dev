@@ -16,6 +16,12 @@ if key.empty?
 	exit
 end
 
+# 同名のファイルがないか、 _posts 以下をチェック
+if Dir.glob("./_posts/*-#{key.downcase.gsub(/\s+/, '-')}.md").size > 0
+	puts "同名のファイルが存在します"
+	exit
+end
+
 begin
 	json = JSON.parse(URI.open("https://ogp.moongift.dev/?url=#{CGI.escape(url)}").read, symbolize_names: true)
 rescue => e
