@@ -5,8 +5,8 @@ catch: Google Cloud Platformの提供するコンピューティングプラッ�
 tags:
   - GCP
   - Computing
-	- Linux
-	- Windows
+  - Linux
+  - Windows
 cover: /assets/images/google-compute-engine.jpg
 comment: true
 ---
