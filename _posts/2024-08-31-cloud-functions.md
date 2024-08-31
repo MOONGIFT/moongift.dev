@@ -12,7 +12,7 @@ comment: true
 
 [Cloud Run Functions](https://cloud.google.com/functions)は、Google Cloudが提供するサーバーレスコンピューティングサービスです。Cloud Functionsを使用すると、イベント駆動型のコードを簡単に作成できます。
 
-[![Cloud Run FunctionsのWebサイト](/assets/images/cloud-functions.jpg)](https://cloud.google.com/functions)
+[![Cloud Run FunctionsのWebサイト](/assets/images/cloud-fun-functions.jpg)](https://cloud.google.com/functions)
 
 <!--more-->
 
