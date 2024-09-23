@@ -26,6 +26,16 @@ Bitwardenの特徴は以下の通りです。
 
 Bitwardenは個人用途はもちろん、企業向けにも対応しています。また、デスクトップアプリ・モバイル・ブラウザ拡張機能など、様々な環境で利用できます。
 
+## API
+
+BitwardenはRESTful APIを提供しており、自分でクライアントを作成することも可能です。
+
+[Bitwarden](https://bitwarden.com/ja-jp/help/public-api/)
+
+なお、RESTful APIでは保管庫の操作はできません。保管庫の操作はCLIツールを利用するようです。
+
+[パスワードマネージャー CLI \| Bitwarden ヘルプセンター](https://bitwarden.com/ja-jp/help/cli/)
+
 ## 料金
 
 Bitwardenはオープンソース・ソフトウェアなので、セルフホストならば無償で利用できます。クラウドサービスもあり、こちらは無料から有料プランまで用意されています。
