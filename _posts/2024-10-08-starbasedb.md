@@ -5,8 +5,8 @@ catch: エッジで利用するSQLite
 tags:
   - SQLite
   - Edge
-	- Cloudflare
-	- OSS
+  - Cloudflare
+  - OSS
 cover: /assets/images/starbasedb.jpg
 comment: true
 ---
