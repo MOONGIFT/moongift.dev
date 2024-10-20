@@ -5,6 +5,7 @@ catch: AzureのWebアプリホスティング
 tags:
   - Azure
   - Full Managed
+  - Hosting
 cover: /assets/images/azure-app-service.jpg
 comment: true
 ---
