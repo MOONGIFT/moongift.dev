@@ -17,8 +17,10 @@ if key.empty?
 end
 
 # 同名のファイルがないか、 _posts 以下をチェック
-if Dir.glob("./_posts/*-#{key.downcase.gsub(/\s+/, '-')}.md").size > 0
+files = Dir.glob("./_posts/[0-9]{4}-[0-9]{2}-[0-9]{2}-#{key.downcase.gsub(/\s+/, '-')}.md")
+if files.size > 0
 	puts "同名のファイルが存在します"
+	puts files[0]
 	exit
 end
 
