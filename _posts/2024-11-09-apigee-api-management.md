@@ -10,7 +10,7 @@ cover: /assets/images/apigee-api-management.jpg
 comment: true
 ---
 
-[Apigee API Management](https://cloud.google.com/apigee)は、Google Cloudが提供するAPI管理サービスです。Googleが年に買収したApigeeをベースにしており、APIの設計、デプロイ、監視、分析、モニタリング、セキュリティなどの機能を提供しています。
+[Apigee API Management](https://cloud.google.com/apigee)は、Google Cloudが提供するAPI管理サービスです。Googleが2016年に買収したApigeeをベースにしており、APIの設計、デプロイ、監視、分析、モニタリング、セキュリティなどの機能を提供しています。
 
 [![Apigee API ManagementのWebサイト](/assets/images/apigee-api-management.jpg)](https://cloud.google.com/apigee)
 
