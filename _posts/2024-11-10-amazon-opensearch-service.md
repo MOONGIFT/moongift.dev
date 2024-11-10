@@ -4,10 +4,10 @@ key: amazon-opensearch-service
 catch: AWSのOpenSearchマネージドサービス
 tags:
   - AWS
-	- Elasticsearch
+  - Elasticsearch
   - Search Engine
-	- RAG
-	- OSS
+  - RAG
+  - OSS
 cover: /assets/images/amazon-opensearch-service.jpg
 comment: true
 ---
