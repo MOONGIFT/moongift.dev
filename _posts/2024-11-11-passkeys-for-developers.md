@@ -4,8 +4,8 @@ key: passkeys-for-developers
 catch: Okta（Auth0）によるパスキーのリファレンスサイト
 tags:
   - Authentication
-	- Okta
-	- Auth0
+  - Okta
+  - Auth0
 cover: /assets/images/passkeys-for-developers.jpg
 comment: true
 ---
