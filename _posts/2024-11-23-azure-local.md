@@ -1,8 +1,12 @@
 ---
 title: Azure Local
 key: azure-local
-catch: 
+catch: 自社保有のハードウェアをAzureに接続
 tags:
+  - Azure
+  - Hardware
+  - On-premises
+  - Kubernetes
 cover: /assets/images/azure-local.jpg
 comment: true
 ---
