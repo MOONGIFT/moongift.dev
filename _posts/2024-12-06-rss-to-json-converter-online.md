@@ -12,7 +12,7 @@ comment: true
 
 [RSS to JSON Converter online](https://rss2json.com)は、任意のRSSフィードをJSON形式に変換するオンラインツールです。RSSだけでなく、Atomにも対応しています。
 
-[![RSS to JSON Converter onlineのWebサイト](/assets/images/rss-to-json-converter-online.jpg)](https://rss2json.com)
+[![RSS to JSON Converter onlineのWebサイト](/assets/images/rss2json.jpg)](https://rss2json.com)
 
 <!--more-->
 
