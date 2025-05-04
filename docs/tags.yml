@@ -3,16 +3,6 @@ ai:
   permalink: '/ai'
   description: 'Articles on the topic ai'
 
-hello:
-  label: 'Hello'
-  permalink: '/hello'
-  description: 'Articles on the topic hello'
-
-docusaurus:
-  label: 'Docusaurus'
-  permalink: '/docusaurus'
-  description: 'Articles on the topic docusaurus'
-
 facebook:
   label: 'Facebook'
   permalink: '/facebook'
