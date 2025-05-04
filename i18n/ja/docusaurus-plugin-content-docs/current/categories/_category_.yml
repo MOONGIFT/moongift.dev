@@ -1,0 +1,10 @@
+position: 2
+label: カテゴリー
+collapsible: true
+collapsed: false
+className: red
+link:
+  type: generated-index
+  title: カテゴリーの概要
+customProps:
+  description: カテゴリーの概要

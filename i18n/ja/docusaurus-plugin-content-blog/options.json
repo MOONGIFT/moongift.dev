@@ -1,0 +1,14 @@
+{
+  "title": {
+    "message": "サービス",
+    "description": "The title for the blog used in SEO"
+  },
+  "description": {
+    "message": "AIサービスとオープンソースソフトウェアの紹介",
+    "description": "The description for the blog used in SEO"
+  },
+  "sidebar.title": {
+    "message": "サービス一覧",
+    "description": "The label for the left sidebar"
+  }
+}

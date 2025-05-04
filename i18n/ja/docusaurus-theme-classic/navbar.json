@@ -1,0 +1,18 @@
+{
+  "title": {
+    "message": "MOONGIFT.dev",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "MOONGIFT.dev Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Documents": {
+    "message": "Documents",
+    "description": "Navbar item with label Documents"
+  },
+  "item.label.Services": {
+    "message": "Services",
+    "description": "Navbar item with label Services"
+  }
+}

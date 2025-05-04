@@ -1,29 +1,20 @@
-*~
-~*
-*.diff
-*.patch
-*.bak
+# Dependencies
+/node_modules
+
+# Production
+/build
+
+# Generated files
+.docusaurus
+.cache-loader
+
+# Misc
 .DS_Store
-*.swp
-*.swo
-*.log
-*.log.*
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
 
-/.vscode/
-
-node_modules/
-.sass-cache/
-
-/.bundle/
-/vendor/bundle
-*.gem
-
-yarn.lock
-package-lock.json
-Gemfile.lock
-
-_site/
-.jekyll-metadata
-.jekyll-cache/
-.DS_Store
-_site
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

@@ -1,0 +1,10 @@
+position: 2
+label: Categories
+collapsible: true
+collapsed: false
+className: red
+link:
+  type: generated-index
+  title: Categories overview
+customProps:
+  description: Categories overview
