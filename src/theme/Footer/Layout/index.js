@@ -12,13 +12,6 @@ export default function FooterLayout({ style, links, logo, copyright }) {
           </div>
         )}
       </div>
-      <script async src="https://www.googletagmanager.com/gtag/js?id=G-FF22Y9XQH4"></script>
-      <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments)}
-        gtag('js', new Date());
-        gtag('config', 'G-FF22Y9XQH4');
-      </script>
     </footer>
   )
 }
