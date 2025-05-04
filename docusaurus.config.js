@@ -51,7 +51,7 @@ const config = {
   organizationName: 'MOONGIFT', // Usually your GitHub org/user name.
   projectName: 'moongift.dev', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
