@@ -3,9 +3,9 @@ title: Cloudflare Pages
 key: cloudflare-pages
 title_meta: Cloudflare Pages 〜Fast Static Hosting Service〜
 tags:
-  - Cloudflare
   - Hosting
   - Static site
+company: Cloudflare
 ---
 
 [Cloudflare Pages](https://pages.cloudflare.com/) is a static site hosting service provided by Cloudflare. It can be integrated with [Cloudflare Workers](https://moongift.dev/services/cloudflare-workers/) to deliver dynamic content as well.

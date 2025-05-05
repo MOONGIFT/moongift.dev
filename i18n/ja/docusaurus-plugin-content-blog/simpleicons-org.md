@@ -1,14 +1,14 @@
 ---
 title: Simple Icons
 title_meta: 有名なブランドのアイコンをSVG/PNG形式で提供
-key: simpleicons
+key: simpleicons-org
 opensource: true
 tags:
   - Icon
   - Free
   - Design
   - SVG
-  - Open Source
+  - OSS
 ---
 
 [Simple Icons](https://simpleicons.org/)は、有名なブランドのアイコンをSVG、またはPNG形式で提供しているサイトです。無料でダウンロードできます。ダウンロードだけでなく、SVGのXMLを、そのままコピーもできます。執筆時点で3,282個のブランドロゴが登録されています。

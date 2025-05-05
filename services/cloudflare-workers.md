@@ -3,13 +3,13 @@ title: Cloudflare Workers
 title_meta: Cloudflare Workers 〜 Serverless applications can be created with FaaS〜
 key: cloudflare-workers
 tags:
-  - Cloudflare
   - FaaS
   - JavaScript
   - Serverless
   - Rust
   - C
   - "C++"
+company: Cloudflare
 ---
 
 Cloudflare Workers is a FaaS (Function as a Service) provided by [Cloudflare](https://www.cloudflare.com/), known for its CDN services. You can create serverless applications using JavaScript and other languages. A free tier is available.
