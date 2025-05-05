@@ -4,7 +4,7 @@
     "description": "The title for the blog used in SEO"
   },
   "description": {
-    "message": "AIサービスとオープンソースソフトウェアの紹介",
+    "message": "開発者向けサービスとオープンソースソフトウェアの紹介",
     "description": "The description for the blog used in SEO"
   },
   "sidebar.title": {
