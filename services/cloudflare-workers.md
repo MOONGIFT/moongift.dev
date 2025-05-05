@@ -72,7 +72,7 @@ The following languages can be executed:
 
 Note that the JavaScript engine is not Node.js but rather an engine that supports browser APIs. Legacy APIs like XMLHttpRequest are not supported.
 
-## MOONGIFT's Perspective
+## MOONGIFT Eye
 
 The biggest appeal of Cloudflare Workers is undoubtedly its generous free tier. We use it in various projects, and it's actually difficult to exceed the free tier limits. Additionally, when combined with Cloudflare Pages, it's attractive for adding dynamic functionality to static sites.
 
