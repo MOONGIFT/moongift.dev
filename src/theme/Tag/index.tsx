@@ -18,7 +18,9 @@ export default function Tag({
       className={clsx(
         styles.tag,
         label === 'OSS' ? 'text-white bg-blue-500 font-bold dark:text-blue-900 dark:bg-white' : '',
-        count ? styles.tagWithCount : styles.tagRegular,
+        count ?
+          clsx(styles.tagWithCount, label === 'OSS' ? 'before:bg-blue-500 dark:before:bg-white' : '') :
+          styles.tagRegular,
       )}>
       {label}
       {count && <span>{count}</span>}

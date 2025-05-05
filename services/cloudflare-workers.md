@@ -1,6 +1,6 @@
 ---
 title: Cloudflare Workers
-title_meta: Cloudflare Workers 〜 Serverless applications can be created with FaaS〜
+title_meta: Cloudflare Workers - Serverless applications can be created with FaaS
 key: cloudflare-workers
 tags:
   - FaaS

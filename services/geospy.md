@@ -1,7 +1,7 @@
 ---
 title: GeoSpy
+title_meta: GeoSpy - AI-Powered Photo Location Identification
 key: geospy
-catch: Find a Photo's Location Instantly
 tags:
   - AI
   - Image

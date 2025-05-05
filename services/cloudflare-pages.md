@@ -1,7 +1,7 @@
 ---
 title: Cloudflare Pages
 key: cloudflare-pages
-title_meta: Cloudflare Pages 〜Fast Static Hosting Service〜
+title_meta: Cloudflare Pages - Fast Static Hosting Service
 tags:
   - Hosting
   - Static site

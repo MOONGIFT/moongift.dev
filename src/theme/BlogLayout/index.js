@@ -8,8 +8,7 @@ import Image from '@theme/IdealImage';
 export default function BlogLayout(props) {
   const { sidebar, toc, children, ...layoutProps } = props;
   const hasSidebar = sidebar && sidebar.items.length > 0;
-  const { frontMatter } = children.find(child => child.props?.metadata)?.props?.metadata;
-  console.log(frontMatter);
+  const { frontMatter } = children.find(child => child.props?.metadata)?.props?.metadata || {};
   return (
     <Layout {...layoutProps}>
       <div className='container max-w-7xl px-4 py-10'>
