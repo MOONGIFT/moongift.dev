@@ -81,4 +81,4 @@ CodeRabbit streamlines the code review process using AI technology. Particularly
 
 Code review workload is a common challenge for development teams. While using CodeRabbit doesn't completely eliminate the need for code reviews, it ensures a minimum level of quality. After that, human reviewers can focus on logic and company-specific guidelines.
 
-[AI Code Reviews | CodeRabbit | Try for Free](https://www.coderabbit.ai/ja)
+[AI Code Reviews | CodeRabbit | Try for Free](https://www.coderabbit.ai/)
