@@ -7,6 +7,10 @@ tags:
   - Cloud Storage
   - S3 Compatible
 company: さくらインターネット
+companyInfo:
+  name: さくらインターネット
+  description: さくらインターネットは、日本のインターネットサービスプロバイダーです。
+  url: https://www.sakura.ad.jp/
 ---
 
 [さくらのクラウド オブジェクトストレージ](https://cloud.sakura.ad.jp/products/object-storage/)は、S3互換のオブジェクトストレージです。さくらインターネットの各サービス間はデータ転送量が無料です。

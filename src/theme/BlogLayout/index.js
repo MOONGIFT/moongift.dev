@@ -4,7 +4,8 @@ import Layout from '@theme/Layout';
 import BlogSidebar from '@theme/BlogSidebar';
 import { Card, CardContent, CardFooter } from '../../components/ui/card';
 import Image from '@theme/IdealImage';
-
+import Translate from '@docusaurus/Translate';
+import Link from '@docusaurus/Link';
 export default function BlogLayout(props) {
   const { sidebar, toc, children, ...layoutProps } = props;
   const hasSidebar = sidebar && sidebar.items.length > 0;
@@ -34,7 +35,12 @@ export default function BlogLayout(props) {
                 />
               </CardContent>
               {frontMatter.company && <CardFooter>
-                <p className='text-sm dark:text-gray-200 font-bold'>Company: {frontMatter.company}</p>
+                <p className='text-xl dark:text-gray-200 font-bold'>
+                  <Translate id='companies.company'>Provided by </Translate>
+                  <Link to={`/companies/${frontMatter.company.toLowerCase().replace(/ /g, '-')}`}>
+                    {frontMatter.company}
+                  </Link>
+                </p>
               </CardFooter>
               }
             </Card>
