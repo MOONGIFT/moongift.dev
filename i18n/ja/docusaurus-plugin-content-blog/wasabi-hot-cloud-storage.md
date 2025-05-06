@@ -6,7 +6,7 @@ company: Wasabi
 tags:
   - Cloud Storage
   - Object Storage
-  - S3 Compatible
+clone: amazon-s3
 ---
 
 [Wasabi Hot Cloud Storage](https://wasabi.com/cloud-object-storage)は、Wasabiの提供するクラウドストレージです。下り転送料が無料で、S3互換のAPIを提供しています。

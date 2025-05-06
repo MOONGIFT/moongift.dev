@@ -8,6 +8,7 @@ tags:
   - S3 Compatible
   - AI
   - OSS
+clone: amazon-s3
 ---
 
 [MinIO](https://min.io/) is an S3-compatible object storage solution. It's open source and provides high-performance, scalable storage. It can be used in container environments such as Docker and Kubernetes.
