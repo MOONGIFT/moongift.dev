@@ -61,7 +61,7 @@ You can choose the appropriate deployment option based on your security and comp
 
 ## Pricing
 
-CodeRabbit's pricing can be found at [AI Code Reviews | CodeRabbit | Try for Free](https://www.coderabbit.ai/ja/pricing). As of writing, the pricing is as follows:
+CodeRabbit's pricing can be found at [AI Code Reviews | CodeRabbit | Try for Free](https://www.coderabbit.ai/pricing). As of writing, the pricing is as follows:
 
 The Lite plan costs $12 per month (annual billing), and the Pro plan is $24 per month (annual billing). For large enterprises, there are Enterprise plans (contact for pricing) and Self-Hosting plans (500+ users) available.
 
