@@ -5,11 +5,11 @@ key: akamai-object-storage
 tags:
   - Object Storage
   - Cloud Storage
-  - S3 Compatible
 company: Akamai
 companyInfo:
   description: Akamai is a global content delivery network (CDN) and cloud services company.
   name: Akamai
+clone: amazon-s3
 ---
 
 [Akamai Object Storage](https://www.akamai.com/products/object-storage) is an object storage service provided by Akamai, known for its CDN services. Originally offered by Linode, the service was rebranded as Akamai Object Storage after the acquisition.

@@ -3,10 +3,10 @@ title: Cloudflare R2
 title_meta: Cloudflare R2 〜 Cloudflare提供のS3互換オブジェクトストレージ〜
 key: cloudflare-r2
 tags:
-  - S3 Compatible
   - Cloud Storage
   - Object Storage
 company: Cloudflare
+clone: amazon-s3
 ---
 
 [Cloudflare R2](https://www.cloudflare.com/ja-jp/developer-platform/r2/)は、Cloudflareの提供するクラウドオブジェクトストレージです。エグレスコスト（下り通信料）なしで、高速なデータ転送が可能です。

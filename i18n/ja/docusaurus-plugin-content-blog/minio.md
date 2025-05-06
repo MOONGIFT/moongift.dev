@@ -5,9 +5,9 @@ key: minio
 tags:
   - Object Storage
   - Cloud Storage
-  - S3 Compatible
   - AI
   - OSS
+clone: amazon-s3
 ---
 
 [MinIO](https://min.io/)は、S3互換のオブジェクトストレージです。オープンソースで、高速でスケーラブルなストレージを提供します。DockerやKubernetesなどのコンテナ環境でも利用できます。

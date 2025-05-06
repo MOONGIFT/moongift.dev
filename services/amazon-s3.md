@@ -3,7 +3,6 @@ title: Amazon S3
 title_meta: Amazon S3 - The De Facto Standard for Cloud Storage
 key: amazon-s3
 tags:
-  - S3 Compatible
   - Cloud Storage
   - Object Storage
 company: Amazon Web Services

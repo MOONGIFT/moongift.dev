@@ -7,6 +7,7 @@ tags:
   - Cloud Storage
   - Object Storage
 company: Cloudflare
+clone: amazon-s3
 ---
 
 [Cloudflare R2](https://www.cloudflare.com/ja-jp/developer-platform/r2/) is a cloud object storage service provided by Cloudflare. It enables high-speed data transfer with no egress costs (outbound data transfer fees).

@@ -5,8 +5,8 @@ key: akamai-object-storage
 tags:
   - Object Storage
   - Cloud Storage
-  - S3 Compatible
 company: Akamai
+clone: amazon-s3
 ---
 
 [Akamai Object Storage](https://www.akamai.com/products/object-storage)は、CDNとして有名なAkamaiが提供するオブジェクトストレージです。元々はLinodeで提供されていたサービスで、買収後にAkamai Object Storageと名前を変更しているようです。
