@@ -7,6 +7,10 @@ tags:
   - Cloud Storage
   - S3 Compatible
 company: Sakura Internet
+companyInfo:
+  name: Sakura Internet
+  description: Sakura Internet is a Japanese internet service provider.
+  url: https://www.sakura.ad.jp/
 ---
 
 [Sakura Cloud Object Storage](https://cloud.sakura.ad.jp/products/object-storage/) is an S3-compatible object storage service. Data transfer between Sakura Internet's various services is free of charge.

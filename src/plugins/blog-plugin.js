@@ -13,7 +13,25 @@ async function blogPluginExtended(...pluginArgs) {
      */
     contentLoaded: async function (params) {
       const { content, actions } = params;
-      // Get the 4 latest blog posts
+      const path = content.blogTagsListPath.match(/^.*?\/ja\/(.*)$/) ? '/ja/' : '/';
+
+      const companies = Array.from(new Set(content.blogPosts.filter(post => post.metadata.frontMatter.company !== undefined).map(post => post.metadata.frontMatter.company)));
+      const promises = [];
+      for (const company of companies) {
+        const key = company.toLowerCase().replace(/ /g, '-');
+        const posts = content.blogPosts
+          .filter(post => post.metadata.frontMatter.company === company)
+          .map(post => post.metadata);
+        promises.push(actions.addRoute({
+          path: `${path}companies/${key}`,
+          component: '@site/src/pages/companies/company.js',
+          exact: true,
+          modules: {
+            posts: await actions.createData(`companies/${key}.json`, JSON.stringify(posts)),
+          }
+        }));
+      }
+      await Promise.all(promises);
       const recentPostsLimit = 6
       const recentPosts = [...content.blogPosts].splice(0, recentPostsLimit)
       async function createRecentPostModule(blogPost, index) {
@@ -60,7 +78,6 @@ async function blogPluginExtended(...pluginArgs) {
           recentPosts: await Promise.all(recentPosts.map(createRecentPostModule))
         }
       };
-      const path = content.blogTagsListPath.match(/^.*?\/ja\/(.*)$/) ? '/ja/' : '/';
       actions.addRoute({ ...defaultRoute, path });
       // Call the default overridden `contentLoaded` implementation
       return blogPluginInstance.contentLoaded(params)
