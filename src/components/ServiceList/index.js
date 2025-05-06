@@ -1,5 +1,7 @@
+
 import React from 'react';
 import styles from './styles.module.css';
+import Translate from '@docusaurus/Translate';
 
 export default function ServiceList({ services }) {
   return (
@@ -16,7 +18,7 @@ export default function ServiceList({ services }) {
             <p>{service.description}</p>
             {service.url && (
               <a href={service.url} target="_blank" rel="noopener noreferrer" className={styles.serviceLink}>
-                詳細を見る
+                <Translate id="service.viewDetails">View details</Translate>
               </a>
             )}
           </div>
@@ -24,4 +26,4 @@ export default function ServiceList({ services }) {
       ))}
     </div>
   );
-} 
+}
