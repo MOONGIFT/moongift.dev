@@ -8,7 +8,7 @@ tags:
   - OSS
 ---
 
-[GitMCP](https://gitmcp.io/) is a service that allows you to use GitHub repositories as context for AI assistants. Simply change the github.com repository URL to gitmcp.io, and it becomes an MCP server that enables AI tools to understand the repository's content and provide more accurate code assistance.
+[GitMCP](https://gitmcp.io/) is a service that allows you to use GitHub repositories as context for AI assistants. Simply change the `github.com` repository URL to `gitmcp.io`, and it becomes an MCP server that enables AI tools to understand the repository's content and provide more accurate code assistance.
 
 [![GitMCP Website](/img/services/gitmcp.jpg)](https://gitmcp.io/)
 
@@ -21,7 +21,7 @@ Here are the main features of GitMCP:
 - Create a dedicated Model Context Protocol (MCP) server from GitHub repositories
 - Instant setup without complex configuration
 - Integration with GitHub Pages and public GitHub repositories
-- Enables AI assistants to understand code in context
+- Enable AI assistants to understand code in context
 
 With GitMCP, AI assistants can deeply understand the repository's code, read files like llms.txt, llms-full.txt, and readme.md, providing more accurate and relevant responses.
 

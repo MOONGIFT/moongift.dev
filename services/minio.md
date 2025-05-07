@@ -5,7 +5,6 @@ key: minio
 tags:
   - Object Storage
   - Cloud Storage
-  - S3 Compatible
   - AI
   - OSS
 clone: amazon-s3
