@@ -26,7 +26,7 @@ export const BlogPagination = ({ metadata }) => {
     if (value === page) {
       return
     }
-    const newPagePath = value === 1 ? '/blog' : `/blog/page/${value}`
+    const newPagePath = value === 1 ? '/services' : `/services/page/${value}`
     history.push(newPagePath)
   }
 
