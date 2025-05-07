@@ -11,7 +11,7 @@ tags:
 company: Firebase
 ---
 
-[Firebase Studio](https://firebase.studio/)は、AIエージェントを活用してアプ開発を行うフルスタックなプラットフォームです。バックエンド、フロントエンド、モバイルアプリをすべて1つの場所で構築できます。
+[Firebase Studio](https://firebase.studio/)は、AIエージェントを活用してアプリ開発を行うフルスタックなプラットフォームです。バックエンド、フロントエンド、モバイルアプリをすべて1つの場所で構築できます。
 
 [![Firebase Studio Website](/img/services/firebase-studio.jpg)](https://firebase.studio/)
 
