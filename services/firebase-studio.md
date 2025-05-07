@@ -35,11 +35,13 @@ You can develop various types of applications using multiple languages such as N
 
 Firebase Studio is free to use for up to 3 workspaces. For additional features like Firebase hosting, pricing follows the Firebase pricing structure.
 
+[Firebase Pricing](https://firebase.google.com/pricing)
+
 ## Documentation
 
 Documentation for Firebase Studio is available within the overall Firebase documentation.
 
-[Firebase Studio](https://firebase.google.com/docs/studio?hl=en)
+[Firebase Studio](https://firebase.google.com/docs/studio)
 
 ## MOONGIFT's Perspective
 
