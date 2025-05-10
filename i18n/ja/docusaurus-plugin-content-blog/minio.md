@@ -1,5 +1,6 @@
 ---
 title: MinIO
+date: 2025-05-06
 title_meta: MinIO 〜 S3互換のオープンソース・オブジェクトストレージ〜
 key: minio
 tags:

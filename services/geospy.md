@@ -2,6 +2,7 @@
 title: GeoSpy
 title_meta: GeoSpy - AI-Powered Photo Location Identification
 key: geospy
+date: 2025-05-06
 tags:
   - AI
   - Image

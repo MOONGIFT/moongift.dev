@@ -1,5 +1,6 @@
 ---
 title: さくらのクラウド オブジェクトストレージ
+date: 2025-05-06
 title_meta: さくらのクラウド オブジェクトストレージ 〜 さくらのクラウドが提供するS3互換のオブジェクトストレージ〜
 key: sakura-cloud-object-storage
 tags:

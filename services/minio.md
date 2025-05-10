@@ -2,6 +2,7 @@
 title: MinIO
 title_meta: MinIO - Open Source S3-Compatible Object Storage
 key: minio
+date: 2025-05-06
 tags:
   - Object Storage
   - Cloud Storage

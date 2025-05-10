@@ -2,6 +2,7 @@
 title: Cloudflare Pages
 key: cloudflare-pages
 title_meta: Cloudflare Pages - Fast Static Hosting Service
+date: 2025-05-06
 tags:
   - Hosting
   - Static site

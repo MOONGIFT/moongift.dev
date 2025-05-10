@@ -2,6 +2,7 @@
 title: Cloudflare Workers
 title_meta: Cloudflare Workers 〜サーバーレスなアプリケーションを作成できるFaaS〜
 key: cloudflare-workers
+date: 2025-05-06
 tags:
   - Cloudflare
   - FaaS

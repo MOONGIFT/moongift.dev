@@ -1,5 +1,6 @@
 ---
 title: Amazon S3
+date: 2025-05-06
 title_meta: Amazon S3 〜 クラウドストレージのデファクトスタンダード〜
 key: amazon-s3
 tags:

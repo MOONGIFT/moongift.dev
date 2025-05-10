@@ -2,10 +2,12 @@
 title: GitMCP
 title_meta: GitMCP - Using GitHub Repositories as MCP
 key: gitmcp
+date: 2025-05-06
 tags:
   - AI
   - MCP
   - OSS
+opensource: true
 ---
 
 [GitMCP](https://gitmcp.io/) is a service that allows you to use GitHub repositories as context for AI assistants. Simply change the `github.com` repository URL to `gitmcp.io`, and it becomes an MCP server that enables AI tools to understand the repository's content and provide more accurate code assistance.

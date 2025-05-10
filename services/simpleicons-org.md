@@ -2,6 +2,7 @@
 title: Simple Icons
 title_meta: Providing famous brand icons in SVG/PNG format
 key: simpleicons-org
+date: 2025-05-06
 opensource: true
 tags:
   - Icon

@@ -1,5 +1,6 @@
 ---
 title: World ID
+date: 2025-05-05
 key: world-id
 title_meta: World ID 〜分散型IDプロバイダー〜
 tags:

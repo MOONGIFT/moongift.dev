@@ -23,10 +23,12 @@ export const BlogPagination = ({ metadata }) => {
   const page = handleParams()
 
   const handlePageChange = (value) => {
+    const parts = window.location.pathname.split('/');
+    const locale = parts[1] === 'ja' ? '/ja' : '';
     if (value === page) {
       return
     }
-    const newPagePath = value === 1 ? '/services' : `/services/page/${value}`
+    const newPagePath = value === 1 ? `${locale}/services` : `${locale}/services/page/${value}`;
     history.push(newPagePath)
   }
 

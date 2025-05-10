@@ -2,6 +2,7 @@
 title: Cloudflare R2
 title_meta: Cloudflare R2 - S3-Compatible Object Storage by Cloudflare
 key: cloudflare-r2
+date: 2025-05-06
 tags:
   - S3 Compatible
   - Cloud Storage

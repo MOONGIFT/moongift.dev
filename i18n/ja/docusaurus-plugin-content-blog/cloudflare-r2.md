@@ -1,5 +1,6 @@
 ---
 title: Cloudflare R2
+date: 2025-05-06
 title_meta: Cloudflare R2 〜 Cloudflare提供のS3互換オブジェクトストレージ〜
 key: cloudflare-r2
 tags:
