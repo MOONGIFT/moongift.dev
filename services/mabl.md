@@ -5,6 +5,7 @@ key: mabl
 date: 2025-05-10
 tags:
   - AI
+  - API
   - Test
   - Web
   - Mobile
