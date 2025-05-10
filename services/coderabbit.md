@@ -2,6 +2,7 @@
 title: CodeRabbit
 title_meta: CodeRabbit - AI-Powered Code Review Tool
 key: coderabbit
+date: 2025-05-06
 tags:
   - AI
   - Code Review

@@ -1,5 +1,6 @@
 ---
 title: Simple Icons
+date: 2025-05-05
 title_meta: 有名なブランドのアイコンをSVG/PNG形式で提供
 key: simpleicons-org
 opensource: true

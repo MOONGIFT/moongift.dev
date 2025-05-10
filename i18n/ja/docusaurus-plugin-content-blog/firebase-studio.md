@@ -1,5 +1,6 @@
 ---
 title: Firebase Studio
+date: 2025-05-07
 title_meta: Firebase Studio 〜フルスタックAIワークスペース〜
 key: firebase-studio
 tags:

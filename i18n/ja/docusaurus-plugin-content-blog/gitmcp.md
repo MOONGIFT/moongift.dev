@@ -2,6 +2,7 @@
 title: GitMCP
 title_meta: GitMCP 〜GitHubリポジトリをMCPとして活用〜
 key: gitmcp
+date: 2025-05-06
 tags:
   - AI
   - MCP

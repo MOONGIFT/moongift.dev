@@ -2,6 +2,7 @@
 title: Amazon S3
 title_meta: Amazon S3 - The De Facto Standard for Cloud Storage
 key: amazon-s3
+date: 2025-05-06
 tags:
   - Cloud Storage
   - Object Storage

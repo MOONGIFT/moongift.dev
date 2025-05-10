@@ -2,6 +2,7 @@
 title: Sakura Cloud Object Storage
 title_meta: Sakura Cloud Object Storage - S3-Compatible Object Storage Service by Sakura Internet
 key: sakura-cloud-object-storage
+date: 2025-05-06
 tags:
   - Object Storage
   - Cloud Storage

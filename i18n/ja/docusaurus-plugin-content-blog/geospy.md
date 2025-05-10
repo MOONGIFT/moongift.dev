@@ -2,6 +2,7 @@
 title: GeoSpy
 title_meta: GeoSpy 〜写真から住所・位置情報を特定〜
 key: geospy
+date: 2025-05-06
 tags:
   - AI
   - Image

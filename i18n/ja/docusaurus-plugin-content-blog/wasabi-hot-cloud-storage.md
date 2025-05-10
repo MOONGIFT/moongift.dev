@@ -1,5 +1,6 @@
 ---
 title: Wasabi Hot Cloud Storage
+date: 2025-05-06
 key: wasabi-hot-cloud-storage
 title_meta: Wasabi Hot Cloud Storage 〜安価なS3互換のクラウドストレージ〜
 company: Wasabi

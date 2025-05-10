@@ -3,6 +3,7 @@ title: Wasabi Hot Cloud Storage
 key: wasabi-hot-cloud-storage
 title_meta: Wasabi Hot Cloud Storage - Affordable S3-Compatible Cloud Storage
 company: Wasabi
+date: 2025-05-06
 tags:
   - Cloud Storage
   - Object Storage

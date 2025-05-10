@@ -2,6 +2,7 @@
 title: World ID
 key: world-id
 title_meta: World ID - Decentralized ID Provider
+date: 2025-05-06
 tags:
   - Authentication
   - OpenID Connect

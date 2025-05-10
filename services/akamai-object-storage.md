@@ -2,6 +2,7 @@
 title: Akamai Object Storage
 title_meta: Akamai Object Storage - S3-Compatible Object Storage by Akamai
 key: akamai-object-storage
+date: 2025-05-06
 tags:
   - Object Storage
   - Cloud Storage

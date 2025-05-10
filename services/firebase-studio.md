@@ -2,6 +2,7 @@
 title: Firebase Studio
 title_meta: Firebase Studio - Full-Stack AI Workspace
 key: firebase-studio
+date: 2025-05-09
 tags:
   - AI
   - Development

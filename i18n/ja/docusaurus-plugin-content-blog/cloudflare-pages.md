@@ -2,6 +2,7 @@
 title: Cloudflare Pages
 key: cloudflare-pages
 title_meta: Cloudflare Pages 〜高速な静的ホスティングサービス〜
+date: 2025-05-06
 tags:
   - Cloudflare
   - Hosting
