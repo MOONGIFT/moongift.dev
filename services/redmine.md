@@ -97,7 +97,7 @@ Customize Redmine's appearance by creating custom themes.
 
 [Theme Development Guide](https://www.redmine.org/projects/redmine/wiki/HowTo_create_a_custom_Redmine_theme)
 
-## MOONGIFT's Perspective
+## MOONGIFT Eye
 
 Redmine has a long history as an open source project management tool and is used by many organizations worldwide. Its greatest appeal lies in being free to use and highly customizable.
 

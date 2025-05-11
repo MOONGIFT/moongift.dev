@@ -68,7 +68,7 @@ A one-week free trial is available.
 
 [Pricing Plans | MagicPod: AI Test Automation Platform](https://magicpod.com/pricing/)
 
-## MOONGIFT's Perspective
+## MOONGIFT Eye
 
 MagicPod is a platform that solves the major challenge of "balancing quality and speed" in software development through AI-powered test automation. Its support for both browser and mobile app testing is a significant strength in today's cross-platform development environment.
 

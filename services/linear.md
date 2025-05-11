@@ -109,7 +109,7 @@ The Linear API provides the following features:
 - Event notifications via Webhooks
 - File attachments
 
-## MOONGIFT's Perspective
+## MOONGIFT Eye
 
 Linear is a sophisticated project management tool designed for modern software development teams. Its greatest appeal lies in its simple yet powerful interface and high-speed operation.
 

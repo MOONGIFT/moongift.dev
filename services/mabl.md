@@ -51,7 +51,7 @@ mabl provides developer documentation and API references. These resources help y
 
 [mabl API reference](https://api.help.mabl.com/reference/intro-to-the-mabl-api)
 
-## MOONGIFT's Perspective
+## MOONGIFT Eye
 
 mabl is a platform that solves the major challenge of "balancing quality and speed" in software development through AI-powered test automation. Its AI-native design particularly streamlines the process from test creation to execution and analysis, potentially improving development team productivity.
 

@@ -70,7 +70,7 @@ The Postman API can operate on the following models:
 - Pull requests
 - User and usage data
 
-## MOONGIFT's Perspective
+## MOONGIFT Eye
 
 Postman is widely supported by developers and teams as a comprehensive platform for API development. Its ability to consistently handle everything from API design to testing, documentation, and monitoring is a significant strength.
 

@@ -67,7 +67,7 @@ Playwright also offers detailed API references for each supported language.
 
 [Playwright API Reference](https://playwright.dev/docs/api/class-playwright)
 
-## MOONGIFT's Perspective
+## MOONGIFT Eye
 
 Playwright is a framework that balances reliability and efficiency in modern web application test automation. Its ability to test multiple browser engines with a single API is particularly valuable for ensuring cross-browser compatibility.
 

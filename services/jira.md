@@ -99,7 +99,7 @@ The Jira REST API provides the following features:
 - Attachment handling
 - Comment management
 
-## MOONGIFT's Perspective
+## MOONGIFT Eye
 
 Jira is used by many organizations worldwide as a project management tool. Particularly for software development teams, it serves as a powerful tool covering the entire development lifecycle, from issue tracking to agile development support.
 

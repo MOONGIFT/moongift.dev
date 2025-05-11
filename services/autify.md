@@ -60,7 +60,7 @@ Autify provides an API that enables automation of test execution, result retriev
 
 [Autify API](https://autifyhq.github.io/autify-api/)
 
-## MOONGIFT's Perspective
+## MOONGIFT Eye
 
 Autify is a platform that solves the major challenge of "balancing quality and speed" in software development through AI-powered test automation. The ability to automate testing without coding is particularly beneficial, as it allows not only engineers but also QA and non-engineering team members to participate in the quality assurance process.
 
